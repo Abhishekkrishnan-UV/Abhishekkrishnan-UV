@@ -1,9 +1,11 @@
+<img align="right"alt="coding"width="400" src="https://th.bing.com/th/id/OIP.2pj1jjXElmo8xbrc6FavtAHaDF?w=337&h=145&c=7&r=0&o=5&pid=1.7"
+
 [![MasterHead](https://th.bing.com/th/id/OIP.2pj1jjXElmo8xbrc6FavtAHaDF?w=337&h=145&c=7&r=0&o=5&pid=1.7)]
 <h1 align="center">Hey🖐, I'm Abhishek</h1>
 <h3 align="center">while(!(succeed=try()));//😎</h3>
-<img align="fit"alt="coding"width="400" src="https://i.pinimg.com/originals/7e/2a/eb/7e2aeb1567e91bfc2404cecca6aceecd.gif"
+<img align="fit"alt="coding"width="400" src=""
   
-<h3 align="left">:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 

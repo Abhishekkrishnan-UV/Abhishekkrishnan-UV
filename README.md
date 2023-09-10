@@ -1,9 +1,9 @@
-<img align="right"alt="coding"width="400" src="https://th.bing.com/th/id/OIP.2pj1jjXElmo8xbrc6FavtAHaDF?w=337&h=145&c=7&r=0&o=5&pid=1.7"
+<img align="right"alt="coding"width="400" src="https://th.bing.com/th/id/OIP.2pj1jjXElmo8xbrc6FavtAHaDF?w=337&h=145&c=7&r=0&o=5&pid=1.7">
 
 [![MasterHead](https://th.bing.com/th/id/OIP.2pj1jjXElmo8xbrc6FavtAHaDF?w=337&h=145&c=7&r=0&o=5&pid=1.7)]
 <h1 align="center">Hey🖐, I'm Abhishek</h1>
 <h3 align="center">while(!(succeed=try()));//😎</h3>
-<img align="fit"alt="coding"width="400" src=""
+<img align="fit"alt="coding"width="400" src="https://th.bing.com/th/id/OIP.2pj1jjXElmo8xbrc6FavtAHaDF?w=337&h=145&c=7&r=0&o=5&pid=1.7">
   
 <h3 align="left"></h3>
 <p align="left">

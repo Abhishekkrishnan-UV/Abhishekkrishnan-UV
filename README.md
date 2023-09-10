@@ -2,7 +2,7 @@
 ![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 <h1 align="center">Hey🖐, I'm Abhishek</h1>
 <h3 align="center">while(!(succeed=try()));//😎</h3>
-<img align="fit"alt="coding"width="400" src="">
+
   
 <h3 align="left"></h3>
 <p align="left">
